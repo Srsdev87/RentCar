@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>RentCarsBranches.kmz</name>
+	<open>1</open>
+	<Style id="sh_1496935728787391">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>149693572878739.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_1496935728787391">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_1496935728787391</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_1496935728787391</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_1496935728787391">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>149693572878739.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Temporary Places</name>
+		<open>1</open>
+		<Placemark>
+			<name>RentCar Ashdod</name>
+			<description>RentCar Ashdod - main office</description>
+			<LookAt>
+				<longitude>34.65052869356843</longitude>
+				<latitude>31.79421834629952</latitude>
+				<altitude>0</altitude>
+				<heading>-0.05361443626661003</heading>
+				<tilt>27.58098301170551</tilt>
+				<range>294.9178110746256</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_1496935728787391</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>34.65023514079482,31.79424650892694,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RentCar Tel Aviv</name>
+			<description>RentCar Tel Aviv branch</description>
+			<LookAt>
+				<longitude>34.77447431335383</longitude>
+				<latitude>32.09358742862687</latitude>
+				<altitude>0</altitude>
+				<heading>0.003549264260204751</heading>
+				<tilt>20.91105129491421</tilt>
+				<range>500.2543151299237</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_1496935728787391</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>34.77362942516178,32.09386977121228,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RentCar Haifa</name>
+			<description>RentCar Haifa office</description>
+			<LookAt>
+				<longitude>34.98982034163098</longitude>
+				<latitude>32.82454125231313</latitude>
+				<altitude>0</altitude>
+				<heading>0.1172043508344117</heading>
+				<tilt>25.66081294633604</tilt>
+				<range>690.7069741571527</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_1496935728787391</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>34.99064921570776,32.8248675255949,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RentCar Tiberias</name>
+			<description>RentCar Tiberias office</description>
+			<LookAt>
+				<longitude>35.53587897589977</longitude>
+				<latitude>32.78945909896095</latitude>
+				<altitude>0</altitude>
+				<heading>0.4045194583895985</heading>
+				<tilt>25.53483456586114</tilt>
+				<range>544.5640999131815</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_1496935728787391</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>35.53549998961415,32.78913634991263,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RentCar Eilat</name>
+			<description>RentCar Eilat - office</description>
+			<LookAt>
+				<longitude>34.95600507791048</longitude>
+				<latitude>29.56572610900884</latitude>
+				<altitude>0</altitude>
+				<heading>0.1077348088838763</heading>
+				<tilt>19.78048104734041</tilt>
+				<range>399.1464488960926</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_1496935728787391</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>34.95606337659986,29.56630304557809,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
